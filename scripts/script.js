@@ -1,4 +1,4 @@
-const modelsPath = "../models";
+const modelsPath = "./models";
 
 const video = document.getElementById("video");
 
