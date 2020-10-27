@@ -66,3 +66,4 @@ video.addEventListener("play", async () => {
 window.addEventListener("DOMContentLoaded", () => {
   startVideo();
 });
+//end of code 
